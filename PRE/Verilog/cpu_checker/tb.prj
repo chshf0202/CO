@@ -1,0 +1,2 @@
+verilog work "cpu_checker.v"
+verilog work "tb.v"

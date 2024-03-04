@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+id_fsm instance_name (
+    .char(char), 
+    .clk(clk), 
+    .out(out)
+    );
+
+

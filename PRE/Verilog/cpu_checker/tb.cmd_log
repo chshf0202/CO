@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx100-fgg676-2 tb.ngc tb.ngd  
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx100-fgg676-2 tb.ngc tb.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx100-fgg676-2 tb.ngc tb.ngd  
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.syr" 
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.syr" 
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.syr" 
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/tb.syr" 

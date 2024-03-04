@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/cpu_checker.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/cpu_checker/cpu_checker.syr" 
