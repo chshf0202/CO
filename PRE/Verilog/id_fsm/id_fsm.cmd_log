@@ -1,4 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.syr" 
-xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.syr" 
-xst -intstyle ise -ifn "C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.xst" -ofn "C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.syr" 
-vhdtdtfi -lang verilog -prj id_fsm -o C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm/id_fsm.tfi -lib work C:/Users/17201/Desktop/CO/PRE/Verilog/id_fsm//id_fsm.v -module id_fsm -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

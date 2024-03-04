@@ -1,1 +1,0 @@
-vhdtdtfi -lang verilog -prj mips -o C:/Users/17201/Desktop/CO/P5/mips/IM.tfi -lib work C:/Users/17201/Desktop/CO/P5/mips//IM.v -module IM -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
