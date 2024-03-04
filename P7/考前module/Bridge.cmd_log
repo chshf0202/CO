@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj module -o C:/Users/17201/Desktop/CO/P7/module/Bridge.tfi -lib work C:/Users/17201/Desktop/CO/P7/module//Bridge.v -module Bridge -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,32 @@
+
+
+
+// Instantiate the module
+PIPC instance_name (
+    .A1D(A1D), 
+    .A1E(A1E), 
+    .A1M(A1M), 
+    .A2D(A2D), 
+    .A2E(A2E), 
+    .A2M(A2M), 
+    .A3E(A3E), 
+    .A3M(A3M), 
+    .A3W(A3W), 
+    .rsTuse(rsTuse), 
+    .rtTuse(rtTuse), 
+    .TnewE(TnewE), 
+    .TnewM(TnewM), 
+    .RFenE(RFenE), 
+    .RFenM(RFenM), 
+    .RFenW(RFenW), 
+    .RD1DSel(RD1DSel), 
+    .RD2DSel(RD2DSel), 
+    .RD1ESel(RD1ESel), 
+    .RD2ESel(RD2ESel), 
+    .DMWDSel(DMWDSel), 
+    .stallPC(stallPC), 
+    .stallD(stallD), 
+    .clrE(clrE)
+    );
+
+

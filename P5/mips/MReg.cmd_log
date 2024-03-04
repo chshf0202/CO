@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj mips -o C:/Users/17201/Desktop/CO/P5/mips/MReg.tfi -lib work C:/Users/17201/Desktop/CO/P5/mips//MReg.v -module MReg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

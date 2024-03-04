@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+WReg instance_name (
+    .WDSelM(WDSelM), 
+    .RFenM(RFenM), 
+    .ALUOutM(ALUOutM), 
+    .DMRDM(DMRDM), 
+    .A3M(A3M), 
+    .PC8M(PC8M), 
+    .clk(clk), 
+    .WDSelW(WDSelW), 
+    .RFenW(RFenW), 
+    .ALUOutW(ALUOutW), 
+    .DMRDW(DMRDW), 
+    .A3W(A3W), 
+    .PC8W(PC8W)
+    );
+
+

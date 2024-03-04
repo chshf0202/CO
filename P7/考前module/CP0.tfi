@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+CP0 instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .en(en), 
+    .CP0Add(CP0Add), 
+    .CP0In(CP0In), 
+    .CP0Out(CP0Out), 
+    .VPC(VPC), 
+    .BDIn(BDIn), 
+    .ExcCodeIn(ExcCodeIn), 
+    .HWInt(HWInt), 
+    .EXLClr(EXLClr), 
+    .EPCOut(EPCOut), 
+    .Req(Req)
+    );
+
+

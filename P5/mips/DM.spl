@@ -1,0 +1,13 @@
+[Inputs]
+clk
+reset
+DMen
+=A[31:0]=
+=WD[31:0]=
+=PC8[31:0]=
+[Outputs]
+=RD[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel DM
+

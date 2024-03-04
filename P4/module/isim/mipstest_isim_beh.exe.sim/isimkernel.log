@@ -1,0 +1,28 @@
+Command line:
+   mipstest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59421
+
+Mon Nov 07 19:43:12 2022
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 882.303 Meg
+
+ Total Signals          : 105
+ Total Nets             : 583
+ Total Signal Drivers   : 48
+ Total Blocks           : 9
+ Total Primitive Blocks : 7
+ Total Processes        : 57
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 231161
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 883.352 Meg
+
+Mon Nov 07 19:43:29 2022
+

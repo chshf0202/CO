@@ -1,0 +1,25 @@
+
+
+
+// Instantiate the module
+Bridge instance_name (
+    .A(A), 
+    .PrByteen(PrByteen), 
+    .PrWD(PrWD), 
+    .PrRD(PrRD), 
+    .DMAddr(DMAddr), 
+    .TC0Addr(TC0Addr), 
+    .TC1Addr(TC1Addr), 
+    .IGAddr(IGAddr), 
+    .DMByteen(DMByteen), 
+    .TC0WE(TC0WE), 
+    .TC1WE(TC1WE), 
+    .IGByteen(IGByteen), 
+    .DevWD(DevWD), 
+    .DMRD(DMRD), 
+    .TC0RD(TC0RD), 
+    .TC1RD(TC1RD), 
+    .IGRD(IGRD)
+    );
+
+

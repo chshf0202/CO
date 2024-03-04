@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+NPC instance_name (
+    .PC(PC), 
+    .Zero(Zero), 
+    .BEQ(BEQ), 
+    .imm16(imm16), 
+    .JAL(JAL), 
+    .imm26(imm26), 
+    .JR(JR), 
+    .ra(ra), 
+    .NPC(NPC), 
+    .PC8(PC8)
+    );
+
+

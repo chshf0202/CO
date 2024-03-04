@@ -1,0 +1,28 @@
+
+
+
+// Instantiate the module
+MReg instance_name (
+    .WDSelE(WDSelE), 
+    .RFenE(RFenE), 
+    .DMenE(DMenE), 
+    .ALUOutE(ALUOutE), 
+    .RD2SE(RD2SE), 
+    .A1E(A1E), 
+    .A2E(A2E), 
+    .TnewE(TnewE), 
+    .A3E(A3E), 
+    .PC8E(PC8E), 
+    .clk(clk), 
+    .WDSelM(WDSelM), 
+    .RFenM(RFenM), 
+    .DMenM(DMenM), 
+    .ALUOutM(ALUOutM), 
+    .RD2SM(RD2SM), 
+    .A1M(A1M), 
+    .A2M(A2M), 
+    .TnewM(TnewM), 
+    .PC8M(PC8M)
+    );
+
+

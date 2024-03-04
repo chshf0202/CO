@@ -1,0 +1,55 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/17201/Desktop/CO/P7/module/mips_txt_isim_beh.exe -prj C:/Users/17201/Desktop/CO/P7/module/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/WReg.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/TC.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/PIPC.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/PC.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/NPC.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/MReg.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/MD.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/GRF.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/EXT.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/EReg.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/DReg.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/CTRL.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/CP0.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/Bridge.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/BEXT.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/BE.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/ALU.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/mips.v" into library work
+Analyzing Verilog file "C:/Users/17201/Desktop/CO/P7/module/tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 168204 KB
+Fuse CPU Usage: 609 ms
+Compiling module PC
+Compiling module NPC
+Compiling module DReg
+Compiling module CTRL
+Compiling module GRF
+Compiling module EXT
+Compiling module EReg
+Compiling module ALU
+Compiling module MD
+Compiling module MReg
+Compiling module BE
+Compiling module BEXT
+Compiling module CP0
+Compiling module Bridge
+Compiling module TC
+Compiling module WReg
+Compiling module PIPC
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 20 Verilog Units
+Built simulation executable C:/Users/17201/Desktop/CO/P7/module/mips_txt_isim_beh.exe
+Fuse Memory Usage: 190876 KB
+Fuse CPU Usage: 2155 ms

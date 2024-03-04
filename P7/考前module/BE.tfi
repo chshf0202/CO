@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+BE instance_name (
+    .A(A), 
+    .WD(WD), 
+    .BEmod(BEmod), 
+    .byteen(byteen), 
+    .wd(wd), 
+    .Req(Req), 
+    .ExcBE(ExcBE)
+    );
+
+

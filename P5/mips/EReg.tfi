@@ -1,0 +1,36 @@
+
+
+
+// Instantiate the module
+EReg instance_name (
+    .WDSelD(WDSelD), 
+    .RFenD(RFenD), 
+    .DMenD(DMenD), 
+    .ALUOpD(ALUOpD), 
+    .BSelD(BSelD), 
+    .RD1D(RD1D), 
+    .RD2D(RD2D), 
+    .EXTOutD(EXTOutD), 
+    .A1D(A1D), 
+    .A2D(A2D), 
+    .TnewD(TnewD), 
+    .A3D(A3D), 
+    .PC8D(PC8D), 
+    .clk(clk), 
+    .clrE(clrE), 
+    .WDSelE(WDSelE), 
+    .RFenE(RFenE), 
+    .DMenE(DMenE), 
+    .ALUOpE(ALUOpE), 
+    .BSelE(BSelE), 
+    .RD1E(RD1E), 
+    .RD2E(RD2E), 
+    .EXTOutE(EXTOutE), 
+    .A1E(A1E), 
+    .A2E(A2E), 
+    .TnewE(TnewE), 
+    .A3E(A3E), 
+    .PC8E(PC8E)
+    );
+
+

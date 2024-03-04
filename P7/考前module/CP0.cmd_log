@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj module -o C:/Users/17201/Desktop/CO/P7/module/CP0.tfi -lib work C:/Users/17201/Desktop/CO/P7/module//CP0.v -module CP0 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
